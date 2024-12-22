@@ -1,2 +1,21 @@
-# SafeSpace_AI
-SafeSpace AI is a chatbot offering personalized advice, educational resources, and emotional support for sexual health, mental well-being, and trauma discussions. It provides a secure, judgment-free platform powered by AI and NLP to empower users with empathy, actionable solutions, and connections to trusted resources.
+SafeSpace AI
+Empowering Conversations, Supporting Well-being
+
+SafeSpace AI is an innovative chatbot designed to provide a safe, judgment-free platform for addressing sexual health, mental well-being, and personal traumas. By leveraging AI and Natural Language Processing (NLP), the chatbot offers personalized advice, educational resources, and emotional support to users worldwide.
+
+Features:
+*Personalized Guidance: Tailored advice for sexual health and mental well-being.
+*Safe Space: A secure platform to discuss personal experiences without judgment.
+*provide reliable informations that rase sexual awarness.
+
+Tech Stack
+
+AI/NLP: $$$$$
+Database: API from RapidApi
+
+Getting Started
+Clone the repository:
+bash
+Copier le code
+git clone https://github.com/your-username/safespace-ai.git  
+Follow the setup instructions in the README to configure and run the project locally.
